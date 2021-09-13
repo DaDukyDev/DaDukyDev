@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TimothyT1
-- 👀 I’m interested in AdOps, Advertising. 
+- 👋 Hi, I’m @DaDuky
+- 👀 I’m interested in AdOps, Advertising. Crypto
 - 🌱 I’m currently learning JS, PHP, SQL
 - 💞️ I’m looking to collaborate on ML and MongoDB
 - 📫 How to reach me: tim.townsend@the-next-step.net
